@@ -1,0 +1,5 @@
+newmtl Card_test
+map_Kd inner-kanji.png
+Kd 1 1 1
+d 1
+
